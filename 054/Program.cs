@@ -55,5 +55,5 @@ void sortRows(int[,] matrix)
     Console.WriteLine();
 }
 sortRows(array);
-System.Console.WriteLine(" Результат");
+System.Console.WriteLine(" Результат :");
 PrintArray(array);
